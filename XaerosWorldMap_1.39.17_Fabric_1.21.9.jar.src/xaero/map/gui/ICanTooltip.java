@@ -1,0 +1,15 @@
+package xaero.map.gui;
+
+import java.util.function.Supplier;
+import javax.annotation.Nullable;
+
+public interface ICanTooltip {
+  @Nullable
+  Supplier<CursorBox> getXaero_wm_tooltip();
+}
+
+
+/* Location:              C:\Users\PC\Downloads\xaero-map-viewer\XaerosWorldMap_1.39.17_Fabric_1.21.9.jar!\xaero\map\gui\ICanTooltip.class
+ * Java compiler version: 21 (65.0)
+ * JD-Core Version:       1.1.3
+ */

@@ -1,0 +1,23 @@
+Manifest-Version: 1.0
+Specification-Title: Xaero's World Map
+Specification-Vendor: xaero96
+Specification-Version: 1.39.17
+Implementation-Title: fabric
+Implementation-Version: 1.39.17
+Implementation-Vendor: xaero96
+Implementation-Timestamp: 2025-10-03T12:48:20+0300
+Timestamp: 1759484900199
+Built-On-Java: 21.0.7+6-LTS (Eclipse Adoptium)
+Built-On-Minecraft: 1.21.9
+Fabric-Jar-Type: classes
+Fabric-Loom-Mixin-Remap-Type: mixin
+Fabric-Gradle-Version: 8.14
+Fabric-Loom-Version: 1.11.7
+Fabric-Mixin-Compile-Extensions-Version: 0.6.0
+Fabric-Minecraft-Version: 1.21.9
+Fabric-Tiny-Remapper-Version: 0.11.1
+Fabric-Loader-Version: 0.17.2
+Fabric-Mixin-Version: 0.16.3+mixin.0.8.7
+Fabric-Mixin-Group: net.fabricmc
+Fabric-Mapping-Namespace: intermediary
+
